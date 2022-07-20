@@ -1,4 +1,4 @@
 #!/bin ./bash
 echo "Hello world"
-echo"hi"
+echo"hi How are you"
 echo" dsjdhasjdhsahl"
